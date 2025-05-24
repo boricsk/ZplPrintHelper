@@ -5,8 +5,8 @@
 	  <ImplicitUsings>enable</ImplicitUsings>
 	  <Nullable>enable</Nullable>
 	  <Title>ZPL Code Print Helper Class</Title>
-	  <PackageProjectUrl>https://github.com/boricsk/MifareClassic</PackageProjectUrl>
-	  <RepositoryUrl>https://github.com/boricsk/MifareClassic</RepositoryUrl>
+	  <PackageProjectUrl>https://github.com/boricsk/ZplPrintHelper</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/boricsk/ZplPrintHelper</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <Authors>Borics Krisztián</Authors>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
