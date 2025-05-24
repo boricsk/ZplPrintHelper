@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0-windows</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <Title>ZPL Code Print Helper Class</Title>
+	  <PackageProjectUrl>https://github.com/boricsk/MifareClassic</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/boricsk/MifareClassic</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <Authors>Borics Krisztián</Authors>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
