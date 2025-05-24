@@ -37,7 +37,7 @@ namespace ZplPrintDemo
 ```
 <br>
 <p align="center">
-  <a href="https://www.nuget.org/packages/MifareClassic/1.0.0" target="_blank" >
+  <a href="https://www.nuget.org/packages/ZplPrintHelper/1.0.0" target="_blank" >
     <img src="./nuget_logo.png" alt="NuGet Page">
   </a>
 </p>
